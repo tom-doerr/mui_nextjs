@@ -21,6 +21,7 @@ export default function Home() {
     const [count, setCount] = useState(0);
  return (
    <div className={styles.container}>
+     Test
      <div>
        <span>With default Theme:</span>
      </div>
